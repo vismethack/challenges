@@ -33,6 +33,13 @@ Submit your own challenge idea related to *Visualising Meteorological Data*. <br
 ## How it works
 Browse through the proposed challenges [here](https://github.com/vismethack/challenges/issues), indicate your interest in the challenge and / or ask clarifying questions. At the same time, it is a great space for you to engage with fellow hackathon attendees before the hackathon weekend and to look for team members with which you work on the challenge during the hackathon weekend together.
 
+## Useful data
+Some example data: https://get.ecmwf.int/#browse/browse:vishackathon
+ECMWF OPEN DATA: https://confluence.ecmwf.int/display/UDOC/ECMWF+Open+Data+-+Real+Time
+ECMWF open-data API: https://github.com/ecmwf/ecmwf-opendata
+Climate data store: https://cds.climate.copernicus.eu/#!/home - Climate and environmetal data
+DWD open data portal: https://dwd-geoportal.de/
+
 
 ## Further links
 * [Hackathon 2022: Visualising Meteorological Data](https://events.ecmwf.int/event/305/)
