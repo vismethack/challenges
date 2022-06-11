@@ -39,6 +39,7 @@ ECMWF OPEN DATA: https://confluence.ecmwf.int/display/UDOC/ECMWF+Open+Data+-+Rea
 ECMWF open-data API: https://github.com/ecmwf/ecmwf-opendata  
 Climate data store: https://cds.climate.copernicus.eu/#!/home - Climate and environmetal data  
 DWD open data portal: https://dwd-geoportal.de/  
+1km dataset on ZENODO: https://doi.org/10.5281/zenodo.6633929  
 
 
 ## Further links
